@@ -4,7 +4,7 @@
    <parent>
       <artifactId>dandelion</artifactId>
       <groupId>com.github.dandelion</groupId>
-      <version>1.1.2-SNAPSHOT</version>
+      <version>1.1.1</version>
    </parent>
 
    <artifactId>dandelion-thymeleaf</artifactId>
@@ -17,7 +17,7 @@
       <dependency>
          <groupId>com.github.dandelion</groupId>
          <artifactId>dandelion-core</artifactId>
-         <version>${project.version}</version>
+         <version>1.1.1</version>
       </dependency>
 
       <!-- Servlet API -->
